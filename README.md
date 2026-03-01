@@ -3,7 +3,7 @@ My first streamline app made in course CIS 3590
 ## Overview
 This project is an interactive Streamlit dashboard designed to visualize and explore water quality data collected from Biscayne Bay. The application allows users to analyze environmental sensor data through descriptive statistics, 2D and 3D visualizations, and includes an external API integration for NASA’s Astronomy Picture of the Day (APOD).
 
-The dashboard was developed as part of the Internship Ready Software Development course.
+The dashboard was developed as part of my Internship Ready Software Development course.
 
 ## Our Data
 Our data contains the water quality specifics including:
